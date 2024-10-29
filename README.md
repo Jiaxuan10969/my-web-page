@@ -16,11 +16,4 @@ This project contains an `index.html` file that displays some basic HTML element
 
 1. **Download or Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/my-web-page.git
-
-### Instructions
-
-- Copy the above content into a new file named `README.md`.
-- Replace `<your-username>` and other placeholders with your actual information.
-
-If you need further customization or have any specific requests, just let me know!
+   git clone https://github.com/Jiaxuan10969/my-web-page.git
